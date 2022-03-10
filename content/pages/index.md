@@ -20,7 +20,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /VIColoquio/images/hero.png
       altText: Image alt text
       caption: Image caption
     styles:
@@ -114,31 +114,31 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/apple.svg
+        url: /VIColoquio/images/apple.svg
         altText: Apple
         caption: Apple
       - type: ImageBlock
-        url: /images/google-play.svg
+        url: /VIColoquio/images/google-play.svg
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
-        url: /images/playstation.svg
+        url: /VIColoquio/images/playstation.svg
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
-        url: /images/gatsby.svg
+        url: /VIColoquio/images/gatsby.svg
         altText: Gatsby
         caption: Gatsby
       - type: ImageBlock
-        url: /images/xbox.svg
+        url: /VIColoquio/images/xbox.svg
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
-        url: /images/skype.svg
+        url: /VIColoquio/images/skype.svg
         altText: Skype
         caption: Skype
       - type: ImageBlock
-        url: /images/zcool.svg
+        url: /VIColoquio/images/zcool.svg
         altText: ZCOOL
         caption: ZCOOL
     spacing: 3
@@ -180,7 +180,7 @@ sections:
         text: >
           14 conferencias de 4 países 
         featuredImage:
-          url: /images/faster.svg
+          url: /VIColoquio/images/faster.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
@@ -204,7 +204,7 @@ sections:
         text: >
           Conversaciones interesantes, nuevos ángulos de vista, trabajo interdisciplinario.
         featuredImage:
-          url: /images/smarter.svg
+          url: /VIColoquio/images/smarter.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
@@ -228,7 +228,7 @@ sections:
         text: >
           Eventos presenciales y virtuales
         featuredImage:
-          url: /images/focused.svg
+          url: /VIColoquio/images/focused.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''

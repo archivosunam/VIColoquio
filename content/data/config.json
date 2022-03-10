@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/VIColoquio/images/favicon.svg",
     "header": {
         "headerVariant": "variant-c",
         "primaryColors": "colors-a",
@@ -58,7 +58,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo.svg"
+            "url": "/VIColoquio/images/logo.svg"
         }
     },
     "footer": {
@@ -73,7 +73,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo.svg"
+            "url": "/VIColoquio/images/logo.svg"
         },
         "title": "VI Coloquio de Archivos",
         "contacts": {
