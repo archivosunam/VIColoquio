@@ -7,6 +7,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 sourcebit.fetch(sourcebitConfig);
 
 module.exports = withBundleAnalyzer({
+    assetPrefix: "https://archivosunam.github.io/VIColoquio/",
     trailingSlash: true,
     devIndicators: {
         autoPrerender: false
