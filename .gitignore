@@ -1,0 +1,5 @@
+
+.DS_Store
+.next/
+.sourcebit-nextjs-cache.json
+node_modules/
