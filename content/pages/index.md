@@ -20,7 +20,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/hero.svg
+      url: /images/hero.png
       altText: Image alt text
       caption: Image caption
     styles:
