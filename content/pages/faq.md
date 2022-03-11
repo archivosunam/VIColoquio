@@ -4,80 +4,33 @@ layout: PageLayout
 sections:
   - colors: colors-a
     elementId: ''
-    title: Need Answers?
+    title: ¿Tienes preguntas?
     items:
-      - question: How is this different from what we have today?
+      - question: ¿El evento es presencial? 
         answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
+          El VI Coloquio de Archivística será en modalidad híbrida.
+      - question: ¿Dónde se encuentra la ENES Unidad Morelia?
         answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
+          Escuela Nacional de Estudios Superiores 
+          Unidad Morelia
+
+          Antigua Carretera a Pátzcuaro No. 8701
+          Col. Ex Hacienda de San José de la Huerta
+          C.P. 58190 Morelia, Michoacán, México
+
+          <a href="https://www.enesmorelia.unam.mx/mapa-de-ubicacion/">Aquí puedes ver un mapa</a>
+      - question: ¿Tiene algún costo?
         answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
+          El evento es gratuito y para todo público, no obstante debido a la COVID-19 el aforo es reducido.
+      - question: ¿Cuáles son las medidas de seguridad?
         answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
+          A continuacón puedes revisar los lineamientos generales de regreso a actividades presenciales.
+          <br>
+          <br>
+          <embed width="100%" height="500px" name="plugin" src="https://www.enesmorelia.unam.mx/wp-content/uploads/2020/09/Lin-RegresoActividades-ENES2020-web.pdf" type="application/pdf">
+      - question: Estoy perdido, ¿Cómo llego a mi edificio?
         answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+          <img width="100%" height="1405" class="alignnone size-full wp-image-818" src="https://www.enesmorelia.unam.mx/wp-content/uploads/2020/07/Croquis-Nuevo-Ingreso-C4.1.1.jpg" alt="" srcset="https://www.enesmorelia.unam.mx/wp-content/uploads/2020/07/Croquis-Nuevo-Ingreso-C4.1.1.jpg 1700w, https://www.enesmorelia.unam.mx/wp-content/uploads/2020/07/Croquis-Nuevo-Ingreso-C4.1.1-250x207.jpg 250w, https://www.enesmorelia.unam.mx/wp-content/uploads/2020/07/Croquis-Nuevo-Ingreso-C4.1.1-700x579.jpg 700w, https://www.enesmorelia.unam.mx/wp-content/uploads/2020/07/Croquis-Nuevo-Ingreso-C4.1.1-768x635.jpg 768w, https://www.enesmorelia.unam.mx/wp-content/uploads/2020/07/Croquis-Nuevo-Ingreso-C4.1.1-1536x1269.jpg 1536w, https://www.enesmorelia.unam.mx/wp-content/uploads/2020/07/Croquis-Nuevo-Ingreso-C4.1.1-120x99.jpg 120w" sizes="(max-width: 1700px) 100vw, 1700px">
     styles:
       self:
         height: auto

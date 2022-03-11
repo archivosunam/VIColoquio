@@ -131,8 +131,8 @@ sections:
             text: >
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -149,8 +149,8 @@ sections:
             text: >
               Coordina: Nicolle Gleaves Ayala
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -170,8 +170,8 @@ sections:
             text: >
               Coordina: Luis Miguel García Velázquez y Yaminel Bernal Astorga
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -200,8 +200,8 @@ sections:
             text: >
               Coordina: Marisol Flores Garrido
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -229,8 +229,8 @@ sections:
             text: >
               Coordina: Yaminel Bernal Astorga
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -263,8 +263,8 @@ sections:
             text: >
               Coordina: Magali Zavala García
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -320,8 +320,8 @@ sections:
             text: >
               Coordina: Luis Miguel García Velázquez
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -348,8 +348,8 @@ sections:
             text: >
               Coordina: José Alfredo Noriega Carmona
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -379,8 +379,8 @@ sections:
             text: >
               Coordina: Rodrigo Sebastián Cortez Madrigal
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -403,8 +403,8 @@ sections:
             text: >
               Coordina: Ignacio Silva Cruz
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
@@ -446,8 +446,8 @@ sections:
             text: >
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
             actions:
-              - label: Apply
-                altText: Apply
+              - label: Ver más
+                altText: Ver más
                 url: /
                 showIcon: true
                 icon: arrowRight
