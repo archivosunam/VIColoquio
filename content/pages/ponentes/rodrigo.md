@@ -1,14 +1,14 @@
 ---
-title: IMSS
+title: M68
 layout: PostLayout
-date: '2021-07-01'
-author: content/data/team/hugh-saturation.json
+date: '2021-06-28'
+author: 
 excerpt: >-
-  Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem
-  semper. Donec sed facilisis nibh.
+  Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu,
+  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpg
+  url: /images/post-1.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''

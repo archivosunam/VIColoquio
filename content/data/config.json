@@ -22,9 +22,9 @@
             },
             {
                 "type": "Link",
-                "label": "Mesas",
+                "label": "Ponentes",
                 "altText": "Blog",
-                "url": "/mesas"
+                "url": "/ponentes"
             },
             {
                 "type": "Link",

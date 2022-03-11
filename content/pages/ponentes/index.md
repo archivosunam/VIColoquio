@@ -1,11 +1,11 @@
 ---
 layout: PostFeedLayout
-title: Mesas
+title: Ponentes
 numOfPostsPerPage: 10
 postFeed:
-  showDate: true
+  showDate: false
   showAuthor: false
-  showExcerpt: false
+  showExcerpt: true
   variant: variant-a
   colors: colors-a
   styles:

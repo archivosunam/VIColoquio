@@ -75,7 +75,7 @@ function JobList(props) {
                 <h3 className="mb-10" data-sb-field-path=".title">{props.title}</h3>
             )}
             {jobItems.length > 0 && (
-                <div className="space-y-16 lg:space-y-24" data-sb-field-path=".items">
+                <div className="space-y-16 lg:space-y-10" data-sb-field-path=".items">
                     {jobItems.map((jobItem, index) => (
                         <JobListItem key={index} {...jobItem} data-sb-field-path={`.${index}`} />
                     ))}
