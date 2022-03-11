@@ -125,8 +125,20 @@ sections:
         url: /VIColoquio/images/enesmorelia.svg
         altText: enes
         caption: enes
+      - type: ImageBlock
+        url: /VIColoquio/images/logoarchivos.svg
+        altText: enes
+        caption: enes
+      - type: ImageBlock
+        url: /VIColoquio/images/logotics.svg
+        altText: enes
+        caption: enes
+      - type: ImageBlock
+        url: /VIColoquio/images/enesmorelia.svg
+        altText: enes
+        caption: enes
     spacing: 3
-    columns: 7
+    columns: 6
     aspectRatio: 'auto'
     showCaption: false
     enableHover: false
@@ -164,7 +176,7 @@ sections:
         text: >
           14 conferencias de 4 países 
         featuredImage:
-          url: /VIColoquio/images/faster.svg
+          url: /VIColoquio/images/logo.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
@@ -188,7 +200,7 @@ sections:
         text: >
           Conversaciones interesantes, nuevos ángulos de vista, trabajo interdisciplinario.
         featuredImage:
-          url: /VIColoquio/images/smarter.svg
+          url: /VIColoquio/images/logo.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
@@ -212,7 +224,7 @@ sections:
         text: >
           Eventos presenciales y virtuales
         featuredImage:
-          url: /VIColoquio/images/focused.svg
+          url: /VIColoquio/images/logo.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
