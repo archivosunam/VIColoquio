@@ -1,13 +1,13 @@
 ---
-title: Mesa IMSS
+title: "Mesa: Crimen Financiero"
 layout: PostLayout
 date: '2021-06-28'
 author: 
 excerpt: >-
-  Aplicaciones de la Inteligencia Artificial para estudios sobre Diabetes a partir del Expediente Clínico Electrónico del IMSS
+  Análisis de información en la prevención del crímen financiero
 featuredImage:
   type: ImageBlock
-  url: /VIColoquio/images/imss.jpg
+  url: /VIColoquio/images/hsbc.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
@@ -31,17 +31,10 @@ bottomSections:
     type: RecentPostsSection
 ---
 
-## Dra. Anel Gomez Garcia
-### Investigadora
-#### Centro de Investigación Biomédica Michoacán IMSS
-anel.gomez@imss.gob.mx
- 
-## Dr. Arturo López Pineda
-### Investigador
-#### Amphora Health
-arturo@amphorahealth.com
+## Karen Jazmín López Castro
+#### HSBC México
+karennz023@gmail.com
 
-## Dra. Karina Mariela Figuroa Mora
-### Profesora investigadora
-#### Facultad de Ciencias Físico Matemáticas Universidad Michoacana de San Nicolás de Hidalgo
-karina.figueroa@gmail.com
+## David Abraham Valdez Sánchez 
+#### HSBC México
+david.valdez@hsbc.com.mx

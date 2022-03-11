@@ -114,33 +114,17 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /VIColoquio/images/apple.svg
-        altText: Apple
-        caption: Apple
+        url: /VIColoquio/images/logoarchivos.svg
+        altText: enes
+        caption: enes
       - type: ImageBlock
-        url: /VIColoquio/images/google-play.svg
-        altText: Google Play
-        caption: Google Play
+        url: /VIColoquio/images/logotics.svg
+        altText: enes
+        caption: enes
       - type: ImageBlock
-        url: /VIColoquio/images/playstation.svg
-        altText: PlayStation
-        caption: PlayStation
-      - type: ImageBlock
-        url: /VIColoquio/images/gatsby.svg
-        altText: Gatsby
-        caption: Gatsby
-      - type: ImageBlock
-        url: /VIColoquio/images/xbox.svg
-        altText: Xbox
-        caption: Xbox
-      - type: ImageBlock
-        url: /VIColoquio/images/skype.svg
-        altText: Skype
-        caption: Skype
-      - type: ImageBlock
-        url: /VIColoquio/images/zcool.svg
-        altText: ZCOOL
-        caption: ZCOOL
+        url: /VIColoquio/images/enesmorelia.svg
+        altText: enes
+        caption: enes
     spacing: 3
     columns: 7
     aspectRatio: 'auto'

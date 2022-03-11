@@ -8,7 +8,7 @@ excerpt: >-
   eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 featuredImage:
   type: ImageBlock
-  url: /VIColoquio/images/gabriela.jpg
+  url: /VIColoquio/images/ponentes/gabriela.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
