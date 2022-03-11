@@ -7,7 +7,7 @@ excerpt: >-
   Seguridad y justicia en la era de los datos
 featuredImage:
   type: ImageBlock
-  url: /VIColoquio/images/fiscalia.jpg
+  url: /VIColoquio/images/fiscalia.png
   altText: Post Image
 bottomSections:
   - elementId: ''
