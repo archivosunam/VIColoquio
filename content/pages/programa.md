@@ -37,29 +37,29 @@ sections:
   - elementId: ''
     colors: colors-h
     quote: >-
-      <a href="url">Descargar programa de mano</a>
-    #name: Carla Rogers
-    #title: Someone from the team
-  #  styles:
-  #    self:
-  #      height: auto
-  #      width: wide
-  #      margin:
-  #        - mt-0
-  #        - mb-0
-  #        - ml-0
-  #        - mr-0
-  #      padding:
-  #        - pt-24
-  #        - pb-36
-  #      justifyContent: center
-  #    quote:
-  #      textAlign: center
-  #    name:
-  #      textAlign: center
-  #    title:
-  #      textAlign: center
-  #  type: QuoteSection
+      <a href="https://github.com/ArchivosUNAM/VIColoquio/raw/main/public/programa.pdf">Descargar programa de mano</a>
+    name: 
+    title: 
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-36
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        textAlign: center
+      title:
+        textAlign: center
+    type: QuoteSection
   #- elementId: ''
   #  colors: colors-a
   #  images:
