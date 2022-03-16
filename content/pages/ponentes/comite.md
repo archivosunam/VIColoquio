@@ -7,7 +7,7 @@ excerpt: >-
   "Comité Organizador"
 featuredImage:
   type: ImageBlock
-  url: /VIColoquio/images/hero.png
+  url: /VIColoquio/images/ponentes/hero.png
   altText: Post Image
 bottomSections:
   - elementId: ''
