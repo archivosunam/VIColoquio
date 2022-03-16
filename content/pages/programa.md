@@ -125,20 +125,20 @@ sections:
             title: Prof. Rodrigo Sebastián Cortez 
             location: Comité Organizador
 
-          - type: JobListItem
-            title: 
-            location: 
-            text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-            actions:
-              - label: Ver más
-                altText: Ver más
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-                elementId: ''
-                type: Link
+          #- type: JobListItem
+          #  title: 
+          #  location: 
+          #  text: >
+          #    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          #  actions:
+          #    - label: Ver más
+          #      altText: Ver más
+          #      url: /
+          #      showIcon: true
+          #      icon: arrowRight
+          #      iconPosition: right
+          #      elementId: ''
+          #      type: Link
                 
       - type: JobList
         title: "9:45 - 10:45 Conferencia Magistral Comportamiento informativo de los usuarios: usando la tecnología para el acceso a la información en documentos de archivo"
@@ -151,7 +151,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/conf-comportamientoinformativo/
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -164,15 +164,35 @@ sections:
       - type: JobList
         title: "11:00-12:00 Conversatorio: Reflexiones y experiencias del equipo de trabajo Foro Internacional de Evaluación de Documentos (FIED)"
         items:
+
           - type: JobListItem
-            title: Dr. Juan José Calva
-            location: Instituto de Investigaciones Bibliotecológicas y de la Información de la UNAM
+            title: Prof. Norma Fenoglio
+            location:
+          - type: JobListItem
+            title: Prof. Aida Luz Mendoza
+            location:
+          - type: JobListItem
+            title: Prof. Mariela Álvarez
+            location:
+          - type: JobListItem
+            title: Prof. Ana Celia Rodríguez
+            location:
+          - type: JobListItem
+            title: Prof. Fabián Hernández Muñiz
+            location:
+          - type: JobListItem
+            title: Prof. María López
+            location:
+
+          - type: JobListItem
+            title: 
+            location: Foro Internacional de Evaluación de Documentos
             text: >
               Coordina: Luis Miguel García Velázquez y Yaminel Bernal Astorga
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/conv-reflexiones/
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -180,20 +200,19 @@ sections:
                 type: Link
 
       - type: JobList
-        title: " 12:15 - 13:15 Mesa: Aplicaciones de la Inteligencia Artificial para estudios sobre Diabetes a partir del Expediente Clínico Electrónico del IMSS"
+        title: "12:15 - 13:15 Mesa: Aplicaciones de la Inteligencia Artificial para estudios sobre Diabetes a partir del Expediente Clínico Electrónico del IMSS"
         items:
 
           - type: JobListItem
             title: Dra. Anel Gomez Garcia
             location: Centro de Investigación Biomédica Michoacán del IMSS
-
           - type: JobListItem
             title: Dr. Arturo López Pineda
             location: Amphora Health
-
           - type: JobListItem
             title: Dra. Karina Mariela Figuroa Mora
             location: Facultad de Ciencias Físico Matemáticas Universidad Michoacana de San Nicolás de Hidalgo
+
           - type: JobListItem
             title: 
             location: 
@@ -202,7 +221,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/mesa-aplicacionesia/
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -231,7 +250,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/mesa-aplicacionesia/conv-archivoschile
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -265,7 +284,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/conv-losarchivos
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -303,7 +322,7 @@ sections:
     title: 25
     jobLists:
       - type: JobList
-        title: "9 - 11:00 Mesa: m68.mx a 5 años de lanzamiento"
+        title: "9:00 - 11:00 Mesa: m68.mx a 5 años de lanzamiento"
         items:
           - type: JobListItem
             title: Mtro. Luis Josué Martínez 
@@ -322,7 +341,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/mesa-m68
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -350,7 +369,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/mesa-crimen
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -363,7 +382,6 @@ sections:
       - type: JobList
         title: "12:30 - 13:45 Mesa: Seguridad y justicia en la era de los datos"
         items:
-
           - type: JobListItem
             title: Lic. Teresa Paulina Cázarez Ramírez
             location: Unidad de Persecución de Delitos Cometidos por Medios Cibernéticos de la Fiscalía General del Estado de Michoacán
@@ -381,7 +399,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/mesa-seguridad
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -405,7 +423,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/conf-constitucion
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
@@ -444,11 +462,11 @@ sections:
             title: 
             location: 
             text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+              ""
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /
+                url: /ponentes/comite
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right

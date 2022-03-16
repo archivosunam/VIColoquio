@@ -1,14 +1,13 @@
 ---
-title: Gabriela Andatur
+title: "Conferencia: Constitución y preservación del patrimonio documental electrónico: Estado actual del Archivo Electrónico del Archivo Nacional de Chile"
 layout: PostLayout
 date: '2021-06-28'
 author: 
 excerpt: >-
-  Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu,
-  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
+  "Conferencia: Constitución y preservación del patrimonio documental electrónico: Estado actual del Archivo Electrónico del Archivo Nacional de Chile"
 featuredImage:
   type: ImageBlock
-  url: /VIColoquio/images/ponentes/gabriela.jpg
+  url: https://images.unsplash.com/photo-1544396821-4dd40b938ad3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2946&q=80
   altText: Post Image
 bottomSections:
   - elementId: ''
@@ -31,6 +30,9 @@ bottomSections:
         justifyContent: center
     type: RecentPostsSection
 ---
+
+##### Mtra. Gabriela Andaur Gómez
+###### Archivo Nacional de Chile
 
 Máster en Estudios Archivísticos por la Universidad de British Columbia (Canadá), es Archivera del Archivo Electrónico del Archivo Nacional de Chile, unidad responsable de la transferencia de documentos electrónicos de las instituciones públicas y de su preservación y acceso a largo plazo.
 Entre 2014 y 2021 se desempeñó como Profesora Asistente de la Facultad de Economía y Negocios de la Universidad Alberto Hurtado y en 2021 fue Directora y docente del Diplomado en Gestión Documental Electrónica, de la misma casa de estudios. También ha trabajado como consultora en iniciativas relacionadas con la gestión y preservación de documentos y datos en organizaciones de distinto tipo.

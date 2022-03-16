@@ -1,13 +1,13 @@
 ---
-title: Mesa IMSS
+title: "Conversatorio: Programa de Archivos Escolares de la Universidad Católica de Chile: del aula de clases al escenario digital"
 layout: PostLayout
 date: '2021-06-28'
 author: 
 excerpt: >-
-  Aplicaciones de la Inteligencia Artificial para estudios sobre Diabetes a partir del Expediente Clínico Electrónico del IMSS
+  "Conversatorio: Programa de Archivos Escolares de la Universidad Católica de Chile: del aula de clases al escenario digital"
 featuredImage:
   type: ImageBlock
-  url: /VIColoquio/images/imss.jpg
+  url: https://images.unsplash.com/photo-1544396821-4dd40b938ad3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2946&q=80
   altText: Post Image
 bottomSections:
   - elementId: ''
@@ -31,17 +31,9 @@ bottomSections:
     type: RecentPostsSection
 ---
 
-## Dra. Anel Gomez Garcia
-### Investigadora
-#### Centro de Investigación Biomédica Michoacán IMSS
-anel.gomez@imss.gob.mx
- 
-## Dr. Arturo López Pineda
-### Investigador
-#### Amphora Health
-arturo@amphorahealth.com
 
-## Dra. Karina Mariela Figuroa Mora
-### Profesora investigadora
-#### Facultad de Ciencias Físico Matemáticas Universidad Michoacana de San Nicolás de Hidalgo
-karina.figueroa@gmail.com
+Mtro. Rodrigo Esteban Saldoval Díaz 
+Universidad Católica de Chile
+
+Dr. Rodrigo Mayorga Camus
+Universidad Católica de Chile

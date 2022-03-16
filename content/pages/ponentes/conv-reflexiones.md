@@ -1,13 +1,13 @@
 ---
-title: "Mesa: Crimen Financiero"
+title: "Conversatorio: Reflexiones y experiencias (FIED)"
 layout: PostLayout
 date: '2021-06-28'
 author: 
 excerpt: >-
-  Análisis de información en la prevención del crímen financiero
+  "Conversatorio: Reflexiones y experiencias del equipo de trabajo Foro Internacional de Evaluación de Documentos (FIED)"
 featuredImage:
   type: ImageBlock
-  url: /VIColoquio/images/hsbc.jpg
+  url: https://images.unsplash.com/photo-1544396821-4dd40b938ad3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2946&q=80
   altText: Post Image
 bottomSections:
   - elementId: ''
@@ -31,10 +31,13 @@ bottomSections:
     type: RecentPostsSection
 ---
 
-## Karen Jazmín López Castro
-#### HSBC México
-karennz023@gmail.com
+#### Foro Internacional de Evaluación de Documentos
 
-## David Abraham Valdez Sánchez 
-#### HSBC México
-david.valdez@hsbc.com.mx
+![image](/VIColoquio/images/ponentes/juanjose.jpeg)
+
+Prof. Norma Fenoglio
+Prof. Aida Luz Mendoza
+Prof. Mariela Álvarez
+Prof. Ana Celia Rodríguez
+Prof. Fabián Hernández Muñiz
+Prof. María López

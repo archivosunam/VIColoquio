@@ -1,13 +1,13 @@
 ---
-title: "Mesa: m68.mx" a 5 años de su lanzamiento
+title: "Comité"
 layout: PostLayout
 date: '2021-06-28'
 author: 
 excerpt: >-
-  M68 a 5 años de su lanzamiento
+  "Comité Organizador"
 featuredImage:
   type: ImageBlock
-  url: /VIColoquio/images/m68.png
+  url: /VIColoquio/images/ponentes/hero.png
   altText: Post Image
 bottomSections:
   - elementId: ''
@@ -31,16 +31,13 @@ bottomSections:
     type: RecentPostsSection
 ---
 
-## Mtro. Luis Josué Martínez 
-### Profesor
-#### Universidad Veracruzana
-luisjosuemartinezrodriguez@gmail.com
-
-## Mtra. Eunice Hernández
-### Coordinadora de M68
-eunicehdz@unam.mx
-
-## Dr. Luis Vargas Santiago
-### Investigador
-#### Instituto de Investigaciones Estéticas
-luisadrianvargas@gmail.com
+Dra. Yaminel Bernal Astorga
+Profesora de la LAAyGD y Coordinadora del evento
+Dr. Luis Miguel García Velázquez
+Coordinador de la LTIC y Coordinador del evento
+Dr. Ignacio Silva Cruz
+Coordinador de la LAAyGD
+Prof. Nicolle Gleaves Ayala
+Comité Organizador
+Prof. Rodrigo Sebastián Cortez
+Comité Organizador
