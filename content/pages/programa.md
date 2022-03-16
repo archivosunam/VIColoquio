@@ -34,10 +34,10 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  #- elementId: ''
-  #  colors: colors-h
-    #quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s gaps, and we go to lunch together
+  - elementId: ''
+    colors: colors-h
+    quote: >-
+      <a href="url">Descargar programa de mano</a>
     #name: Carla Rogers
     #title: Someone from the team
   #  styles:
