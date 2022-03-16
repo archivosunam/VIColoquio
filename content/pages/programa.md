@@ -20,8 +20,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-36
+          - pt-12
+          - pb-12
         alignItems: center
         justifyContent: center
         flexDirection: col
@@ -34,12 +34,12 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-<<<<<<< HEAD
   - elementId: ''
     colors: colors-h
-<<<<<<< HEAD
-    subtitle: >-
-      <a href="https://github.com/ArchivosUNAM/VIColoquio/raw/main/public/programa.pdf">Descargar programa de mano</a>
+    quote: >-
+      <h5><a href="https://github.com/ArchivosUNAM/VIColoquio/raw/main/public/programa.pdf">Descargar programa de mano</a></h5>
+    name: 
+    title: 
     styles:
       self:
         height: auto
@@ -50,8 +50,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-5
-          - pb-5
+          - pt-0
+          - pb-12
         justifyContent: center
       quote:
         textAlign: center
@@ -60,38 +60,6 @@ sections:
       title:
         textAlign: center
     type: QuoteSection
-=======
-    quote: >-
-      <a href="url">Descargar programa de mano</a>
-=======
-  #- elementId: ''
-  #  colors: colors-h
-    #quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s gaps, and we go to lunch together
->>>>>>> parent of b0a0273 (idk)
-    #name: Carla Rogers
-    #title: Someone from the team
-  #  styles:
-  #    self:
-  #      height: auto
-  #      width: wide
-  #      margin:
-  #        - mt-0
-  #        - mb-0
-  #        - ml-0
-  #        - mr-0
-  #      padding:
-  #        - pt-24
-  #        - pb-36
-  #      justifyContent: center
-  #    quote:
-  #      textAlign: center
-  #    name:
-  #      textAlign: center
-  #    title:
-  #      textAlign: center
-  #  type: QuoteSection
->>>>>>> parent of d23f001 (v0.3.0)
   #- elementId: ''
   #  colors: colors-a
   #  images:
