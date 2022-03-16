@@ -36,6 +36,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-h
+<<<<<<< HEAD
     subtitle: >-
       <a href="https://github.com/ArchivosUNAM/VIColoquio/raw/main/public/programa.pdf">Descargar programa de mano</a>
     styles:
@@ -58,6 +59,32 @@ sections:
       title:
         textAlign: center
     type: QuoteSection
+=======
+    quote: >-
+      <a href="url">Descargar programa de mano</a>
+    #name: Carla Rogers
+    #title: Someone from the team
+  #  styles:
+  #    self:
+  #      height: auto
+  #      width: wide
+  #      margin:
+  #        - mt-0
+  #        - mb-0
+  #        - ml-0
+  #        - mr-0
+  #      padding:
+  #        - pt-24
+  #        - pb-36
+  #      justifyContent: center
+  #    quote:
+  #      textAlign: center
+  #    name:
+  #      textAlign: center
+  #    title:
+  #      textAlign: center
+  #  type: QuoteSection
+>>>>>>> parent of d23f001 (v0.3.0)
   #- elementId: ''
   #  colors: colors-a
   #  images:
