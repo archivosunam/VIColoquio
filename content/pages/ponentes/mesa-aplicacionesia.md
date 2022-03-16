@@ -37,6 +37,8 @@ bottomSections:
 ##### Dr. Arturo López Pineda
 ###### Amphora Health
 
+![image](/VIColoquio/images/ponentes/arturo.png)
+
 Arturo López Pineda es el fundador y director ejecutivo de Amphora Health, una empresa emergente que brinda capacidades de análisis avanzado para organizaciones de ciencias de la vida.
 Antes de fundar Amphora Health, Arturo trabajó como científico de datos en Genentech, miembro del grupo Roche, donde proporcionó evidencia del mundo real para la cartera de oncología y ayudó en la evaluación de los activos de datos de Roche de Flatiron Health y Foundation Medicine.
 Completó su formación posdoctoral en la Universidad de Stanford, donde también se desempeñó como científico de datos para el consorcio ClinGen, contribuyendo al modelado de captura de evidencia a partir de variantes funcionales.
