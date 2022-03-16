@@ -32,11 +32,17 @@ bottomSections:
 ---
 
 
-Arch. Alicia Barnard Amozurrutia
-Consultora Independiente
+##### Arch. Alicia Barnard Amozurrutia
+###### Consultora Independiente
 
-Mtra. Claudia Alin Escoto Velázquez
-Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales
+##### Mtra. Claudia Alin Escoto Velázquez
+###### Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales
 
-Mtro. Rodrigo Cuéllar Hidalgo
-El Colegio de México
+##### Mtro. Rodrigo Cuéllar Hidalgo
+###### El Colegio de México
+
+![rodrigocuellar](/VIColoquio/images/rodrigocuellar.jpg)
+
+Rodrigo Cuéllar Hidalgo es Licenciado en Informática y Maestro en Ciencias cognitivas por parte de la Universidad Autónoma del Estado de Morelos, se desempeña como especialista en sistemas de información en la Biblioteca Daniel Cosío Villegas de El Colegio de México, donde desarrolla diversos proyectos digitales, incluido el sistema de repositorio institucional.
+
+Actualmente es estudiante del programa de Doctorado en Ciencias Computacionales en el Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET) del Instituto Tecnológico Nacional de México (TechNM), su línea de investigación se centra en la Minería de Referencia a través del aprendizaje automático.
