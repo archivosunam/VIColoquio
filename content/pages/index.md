@@ -10,11 +10,11 @@ sections:
     actions:
       - type: Button
         label: Únete
-        url: 'https://www.zoom.com/'
+        url: /
         style: primary
       - type: Link
         label: Programa
-        url: /
+        url: /programa
         showIcon: true
         icon: arrowRight
         iconPosition: right

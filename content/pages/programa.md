@@ -36,10 +36,8 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-h
-    quote: >-
+    subtitle: >-
       <a href="https://github.com/ArchivosUNAM/VIColoquio/raw/main/public/programa.pdf">Descargar programa de mano</a>
-    name: 
-    title: 
     styles:
       self:
         height: auto
@@ -50,8 +48,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-36
+          - pt-5
+          - pb-5
         justifyContent: center
       quote:
         textAlign: center
