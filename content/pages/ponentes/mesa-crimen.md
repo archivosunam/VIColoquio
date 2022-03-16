@@ -38,3 +38,10 @@ Fue seleccionada dentro del programa "Talentum Universidad, los líderes que nos
 
 ##### Mtro. David Abraham Valdez Sánchez
 ###### HSBC México
+
+
+![image](/VIColoquio/images/ponentes/david.png)
+
+Licenciado en economía por la Universidad Autónoma de Baja California y licenciado en Derecho por la Universidad Tecnológica de México. Cuenta con estudios de maestría en derecho, derecho de instituciones financieras, administración  de negocios (MBA) e ingeniería industrial. Asimismo es un especialista certificado en Prevención de Operaciones con Recursos de Procedencia Ilícita por el Instituto Nacional de Ciencias Penales, la Comisión Nacional Bancaria y de Valores y ACAMS (Association of Certified Anti-Money Laundering Specialists). Actualmente es estudiante del programa doctoral en Ciencias Empresariales de la Universidad Panamericana donde está trabajando con el tema del impacto económico de la adopción de las criptomonedas como moneda de curso legal.
+
+Especialista en Prevención de Lavado de Dinero y Financiamiento al Terrorismo con más de 14 años de experiencia en el sector financiero mexicano. Actualmente labora como Gerente Senior del área de Análisis de Crimen Financiero en HSBC Latino América realizando funciones para la detección de nuevas tendencias de crimen financiero en la región, con la finalidad de ayudar a detectar, reportar y prevenir riesgos emergentes en la región. Durante su carrera profesional, la tecnología ha sido un tema recurrente en su labor dado que a través de ella, se crean oportunidades para detectar más eficientemente el crimen financiero.

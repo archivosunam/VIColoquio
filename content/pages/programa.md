@@ -250,7 +250,7 @@ sections:
             actions:
               - label: Ver más
                 altText: Ver más
-                url: /ponentes/mesa-aplicacionesia/conv-archivoschile
+                url: /ponentes/conv-archivoschile
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right

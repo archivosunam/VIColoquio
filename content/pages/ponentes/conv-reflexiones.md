@@ -33,8 +33,6 @@ bottomSections:
 
 #### Foro Internacional de Evaluación de Documentos
 
-![image](/VIColoquio/images/ponentes/juanjose.jpeg)
-
 Prof. Norma Fenoglio
 Prof. Aida Luz Mendoza
 Prof. Mariela Álvarez
