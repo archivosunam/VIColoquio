@@ -34,6 +34,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+<<<<<<< HEAD
   - elementId: ''
     colors: colors-h
 <<<<<<< HEAD
@@ -62,6 +63,12 @@ sections:
 =======
     quote: >-
       <a href="url">Descargar programa de mano</a>
+=======
+  #- elementId: ''
+  #  colors: colors-h
+    #quote: >-
+      ## Being part of this team has been incredible. We’ve fill each other’s gaps, and we go to lunch together
+>>>>>>> parent of b0a0273 (idk)
     #name: Carla Rogers
     #title: Someone from the team
   #  styles:
