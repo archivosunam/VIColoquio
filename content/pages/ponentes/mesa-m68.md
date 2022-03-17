@@ -51,6 +51,8 @@ Ha sido curadora de la exposición La ciudad está allá afuera. Demolición, Oc
 ##### Dr. Luis Vargas Santiago
 ###### Instituto de Investigaciones Estéticas de la UNAM
 
+![image](/VIColoquio/images/ponentes/luisvargas.png)
+
 Investigador del Instituto de Investigaciones
 Estéticas de la Universidad Nacional Autónoma de México (UNAM). Cuenta con estudios de licenciatura, maestría y doctorado en Historia del Arte por la Universidad Cristóbal Colón, la UNAM y The University of Texas at Austin, respectivamente. En sus investigaciones
 y curadurías analiza las culturas visuales de América Latina, desde perspectivas de nacionalismo, raza, género, migración y movilización social. Adicionalmente, desarrolla proyectos sobre museología y educación artística. Sus más recientes libros son: Museums. Trends and Digital Strategy/Museos. Tendencias y estrategia digital (Washington, DC: Banco Interamericano de Desarrollo, 2022) y

@@ -41,8 +41,9 @@ Ha participado en foros nacionales y el extranjero sobre archivística, patrimon
 ##### Dr. Luis Miguel García Velázquez
 ###### Coordinador de la LTIC y Coordinador del evento
 
-Es Ingeniero en Sistemas Computacionales graduado con Mención de Excelencia por el Tecnológico de Monterrey. Posteriormente obtuvo el grado de Maestría por el posgrado conjunto de la Universidad Michoacana de San Nicolás de Hidalgo y la Universidad Nacional Autónoma de México, con la tesis “Arcos ordenados en Hiperespacios de Continuos Métricos y No Métricos”. Se doctoró en Ciencias Matemáticas por la Universidad Nacional Autónoma de México, presentando la tesis “Hiperespacios de Continuos No Métricos” bajo la supervisión del Dr. Alejandro Illanes.
-Recibió el reconocimiento de México y el Internet del Futuro (INTTELMEX, 2000) y el Premio al Mérito Académico (ITESM, 1997).
+Es Ingeniero en Sistemas Computacionales por el Tecnológico de Monterrey, Maestro en Matemáticas por la Universidad Michoacana de San Nicolás de Hidalgo y Doctor en Ciencias Matemáticas por la UNAM. Sus líneas de trabajo incluyen el aprendizaje situado, la inteligencia artificial y las humanidades digitales; en particular, la convergencia interdisciplinar entre la archivística y las tecnologías computacionales. 
+Es profesor de tiempo completo en la Escuela Nacional de Estudios Superiores de la UNAM, Unidad Morelia, impartiendo clases en la Licenciatura en Tecnologías para la Información en Ciencias, en la de Administración de Archivos y Gestión Documental y en la Maestría en Docencia para la Educación Media Superior. Ha impartido cursos y talleres en distintas instituciones universitarias, en las áreas de archivos digitales e inteligencia artificial. Ha sido consultor en materia de desarrollo organizacional y gestión del conocimiento para el aprendizaje. Entre 2017 y 2020, fue coordinador del Comité del Fondo Alfredo Zalce.
+Actualmente es integrante del Sistema Nacional de Investigadores y Coordinador de la Licenciatura en Tecnologías para la Información en Ciencias de la ENES Morelia-UNAM.
 
 ##### Prof. Nicolle Gleaves Ayala
 ###### Comité Organizador

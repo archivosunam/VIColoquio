@@ -34,6 +34,10 @@ bottomSections:
 ##### Dra. Anel Gomez Garcia
 ###### Centro de Investigación Biomédica Michoacán del IMSS
 
+![image](/VIColoquio/images/ponentes/anel.png)
+
+Licenciatura en Químico Fármaco Biología (UMSNH), Maestría en Farmacología Básica (UMSNH), Doctorado en Farmacología (U de Guadalajara). Investigador Asociado D en el Centro de Investigación Biomédica de Michoacán- IMSS. Profesor de Asignatura en Licenciatura de Tecnologías de la Información ENES Morelia UNAM: Inmunología e Introducción a la Investigación en Salud (Biodiversidad y conservación). Dirección de Tesis de Licenciatura: 11. Especialidad: 27, Cotutorías de Especialidad: 19. Maestría: 5. Doctorado: 7. Sistema Nacional de Investigadores: Nivel 1.  Presidente del Comité de Ética del Hospital General Regional N°1 IMSS Charo, Michoacán. Publicaciones Nacionales: 11. Publicaciones Internacionales: 36. Capítulos en libros en Ciencias de la Salud: 1.
+
 ##### Dr. Arturo López Pineda
 ###### Amphora Health
 
@@ -46,6 +50,8 @@ Arturo, ex alumno de Fulbright, tiene títulos duales en ciencias de la computac
 
 ##### Dra. Karina Mariela Figuroa Mora
 ###### Facultad de Ciencias Físico Matemáticas Universidad Michoacana de San Nicolás de Hidalgo
+
+![image](/VIColoquio/images/ponentes/karina.png)
 
 Es egresada de la Facultad de Ing. Eléctrica de la Universidad Michoacana de San Nicolás de Hidalgo. Sus estudios de maestría fueron en sistemas computacionales en la misma Facultad becada por CONACyT. En 2007 terminó sus estudios de doctorado en Ciencias de la Computación en la Universidad de Chile, en la Facultad de Ciencias Físicas y Matemáticas, estos estudios también fueron posibles con una beca por parte de CONACyT y el apoyo de la Universidad de Chile.
 

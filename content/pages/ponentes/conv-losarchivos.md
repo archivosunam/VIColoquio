@@ -43,6 +43,16 @@ Consultora independiente. De 2006 a la fecha colabora en el Proyecto InterPARES,
 ##### Mtra. Claudia Alin Escoto Velázquez
 ###### Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales
 
+![image](/VIColoquio/images/ponentes/claudia.jpg)
+
+Maestra en Derecho con Orientación a Acceso a la Información por la UNAM y Especialista en el Reglamento General de Protección de Datos de la Unión Europea, impartido por la Agencia Española de Protección de Datos a través de la UNED. Diplomada en “Privacidad, Regulación y Gobernanza de Datos” (CIDE); en “Gestión de Información para la Transparencia” (Fundación de las Ciencias de la Documentación - España); y en “Sistemas Anticorrupción, Transparencia y Rendición de Cuentas” (CESIP – en curso). Ha tomado cursos de “Implantación de Sistemas de Gestión para Documentos según ISO 30300/30301” (Universidad Autónoma de Barcelona), de “Proyectos Digitales para el Gobierno Abierto” (OEA), “Interpretación de la Norma ISO 27000 Sistemas de Gestión de Seguridad de la Información (NYCE) entre otros.
+
+Actualmente es Subdirectora de Gestión en el INAI y cuenta con más de 21 años de experiencia en la administración pública, ha participado en proyectos de archivos, transparencia, acceso a la información, protección de datos personales y el uso de tecnologías de la información; así como en la conformación de diversos proyectos normativos tales la conformación de la Ley General de Archivos de México y los Lineamientos para la organización y la conservación de archivos emitidos por el Consejo del Sistema Nacional de Transparencia
+
+Es Miembro del Pleno del Grupo de Trabajo sobre Acceso a la Información y Transparencia de la Asociación Latinoamericana de Archivos e integrante del Subgrupo de Gobierno Abierto, así como afiliada del Consejo Internacional de Archivos (ICA, por sus siglas en inglés) y la Asociación Internacional de Profesionales de la Privacidad (IAPP).
+
+Ha participado como docente en diversos diplomados, cursos y talleres y cuenta con diversas publicaciones académicas entre las que se destacan “El uso de blockchain para la valoración documental con miras a la conformación de la memoria histórica en México” en la Revista Iberoamericana de Derecho Informático (FIADI), “Hacia una Ley General de Archivos y la protección de datos personales” en el libro Visiones contemporáneas del Derecho a la Información (Tirant lo Blanch-INAI-UNAM), y “Los sistemas automatizados para la gestión documental como facilitadores para la transparencia, el acceso a la información, la protección de datos personales y la rendición de cuentas” (Simposio Internacional de Archivos. Archivo, documentación e información en escenarios híbridos), entre otros.
+
 ##### Mtro. Rodrigo Cuéllar Hidalgo
 ###### El Colegio de México
 
