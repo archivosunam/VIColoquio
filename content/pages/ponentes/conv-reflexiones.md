@@ -35,7 +35,7 @@ bottomSections:
 
 ##### Prof. Norma Fenoglio
 
-![image](/VIColoquio/images/ponentes/mayorga.jpg)
+![image](/VIColoquio/images/ponentes/norma.jpg)
 
 Es Doctora en Estudios Sociales de América Latina (Centro de Estudios Avanzados, Universidad Nacional de Córdoba), 2020; es Licenciada en Archivología por la Facultad de Filosofía y Humanidades, Universidad Nacional de Córdoba en el 2010 y cuenta con un Máster en gestión documental y administración de archivos (Universidad Internacional de Andalucía, España que realizó en 2012.
 Actualmente se desempeña como profesora titular por concurso en las cátedras “Selección Documental” y “Teoría Archivística” en Escuela de Archivología, FFyH, Universidad Nacional de Córdoba. Integra el Comité Editorial de la Revista COMMA, del Consejo Internacional de Archivos y también dirige el Anuario de la Escuela de Archivología, Fac. de Filosofía y Humanidades, UNC.
