@@ -122,7 +122,7 @@ sections:
             location: Comité Organizador
 
           - type: JobListItem
-            title: Prof. Rodrigo Sebastián Cortez 
+            title: Prof. Rodrigo Sebastián Cortez Madrigal
             location: Comité Organizador
 
           #- type: JobListItem
@@ -455,7 +455,7 @@ sections:
             location: Comité Organizador
 
           - type: JobListItem
-            title: Prof. Rodrigo Sebastián Cortez 
+            title: Prof. Rodrigo Sebastián Cortez Madrigal
             location: Comité Organizador
 
           - type: JobListItem
