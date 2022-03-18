@@ -51,7 +51,7 @@ Actualmente es integrante del Sistema Nacional de Investigadores y Coordinador d
 ##### Prof. Nicolle Gleaves Ayala
 ###### Comité Organizador
 
-![image](/VIColoquio/images/ponentes/nicolle.jpg)
+![image](/VIColoquio/images/ponentes/nicolle.png)
 
 Pasante de la licenciatura en Administración de Archivos y Gestión Documental (Área de profundización en Archivo Histórico) cursada en la ENES Morelia de la UNAM; próxima a titularse con la tesis “La preservación y la conservación en la profesionalización del archivist: El aprendizaje situado en el Fondo Alfredo Zalce” Desde enero de 2019 se integró a la planta docente de la licenciatura y ha impartido materias tanto en la modalidad presencial como en línea. Fue coordinadora, junto con Yaminel Bernal, durante el 2021 del Seminario de Archivística.
 
